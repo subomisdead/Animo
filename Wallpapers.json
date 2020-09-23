@@ -1,9 +1,10 @@
 [
-      {
-		"name": "Attack On Titans",
-	
-		"url": "https://i.postimg.cc/5t4Q1yGy/20200923-024410.jpg",
-		"thumbnail": "https://i.postimg.cc/5t4Q1yGy/20200923-024410.jpg",
-		"collections": "Dark & Aesthetic"
+	{
+	        "name": "Amoled Fish",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/iamsj7/SJWalls-JSON/master/AMOLED/fish1.png",
+		"dimensions": "1080x1920",
+		"collections": "Amoled",
+		"downloadable": false
 	}
 ]
