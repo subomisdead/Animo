@@ -1,9 +1,9 @@
 [
 	{
 	        "name": "Attack On Titans",
-		"author": "Unknown",
+		"author": false,
 		"url": "https://i.postimg.cc/k5wKchnJ/20200923-024410.jpg",
-		"dimensions": "1080x1920",
+		"dimensions": false,
 		"collections": "Dark",
 		"downloadable": false
 	},
