@@ -2,7 +2,7 @@
 	{
 	        "name": "Attack On Titans",
 		"url": "https://i.postimg.cc/k5wKchnJ/20200923-024410.jpg",
-		"author": "Levi",
+		"author": "Aron Yegear",
 		"collections": "AOT",
 		"downloadable": false
 	},
@@ -75,6 +75,13 @@
 		"url": "https://i.postimg.cc/65D02SQF/20200923-024654.jpg",
 		"collections": "AOT",
 		"downloadable": false
-	}
+	},
+				{
+		"name": "Attack On Titans",
+		"author": "Aron Yegear",
+		"url": "https://i.postimg.cc/bvP9LtkT/20200923-024739.jpg",
+		"collections": "AOT",
+		"downloadable": false
+	},
 	
 ]
